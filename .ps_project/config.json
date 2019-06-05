@@ -1,0 +1,7 @@
+{
+  "project": "PAPERSPACE",
+  "machineType": "GV100",
+  "container": "coinsbarboss/test:updated",
+  "command": "Li9ydW4uc2g=",
+  "workspace": "/root/PAPERSPACE"
+}
